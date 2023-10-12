@@ -1,0 +1,2308 @@
+@media only screen and (max-width:1920px) {
+	
+}
+
+@media only screen and (max-width:1680px) {
+	.header-navbar::before {
+		width: 64.5%;
+	}
+	.hero-doctor-img {
+		right: 30px;
+	}
+	.hero-doctor-img img {
+		width: 820px;
+	}
+	.video-box {
+		right: 200px;
+	}
+	.about-img-1 {
+		left: 70px;
+	}
+	.about-img-1 img {
+		width: 690px;
+	}
+	.footer-couple-img img {
+		width: 400px;
+	}
+	.wedding-two-theme .widding-one-hero .wedding-couple-img {
+		min-width: auto;
+		max-width: 500px;
+	}
+	.construction-theme .header-navbar:before {
+		width: 65%;
+	}
+	.construction-about-img {
+		left: 80px;
+	}
+	.gym-hero-img {
+		right: 270px;
+	}
+	.yoga-theme .header-area .container-fluid {
+	    padding: 0 50px;
+	}
+	.charity-hero-img {
+		right: 50px;
+	}
+	.ticket-img {
+		right: 80px;
+	}
+	.conference-hero-img {
+	    margin-top: 0;
+	}
+	.conference-hero-content {
+		top: 50%;
+	}
+	.conference-hero-area {
+		min-height: auto;
+		padding: 150px 0 120px;
+	}
+	.app-area .app-img {
+		max-width: 670px;
+	}
+	.fitness-about-img {
+		max-width: 720px;
+	}
+	.app-theme .header-area .container-fluid {
+		padding: 0 50px;
+	}
+	.app-woman-img {
+		right: 0;
+	}
+	.app-download-handimg {
+		right: 50px;
+	}
+}
+
+@media only screen and (max-width:1600px) {
+	.hero-doctor-img img {
+		width: 600px;
+	}
+	.hero-three-area {
+		padding: 325px 0 250px;
+	}
+	.cv-hero-img {
+		right: 120px;
+	}
+	.cv-hero-social {
+		left: 50px;
+	}
+	.cv-hero-img img {
+		width: 600px;
+	}
+	.cv-one-service-area .img1 {
+		width: 35%;
+	}
+	.cv-two-theme .about-area .about-img-1 {
+		left: 0;
+	}
+	.footer-couple-img img {
+		width: 370px;
+	}
+	.wedding-two-theme .widding-one-hero .wedding-couple-img {
+		right: 100px;
+	}
+	.yoga-theme .yoga-hero-img {
+		right: 75px;
+	}
+	.electricity-theme .about-area:before {
+		width: 620px;
+	}
+	.app-woman-img {
+		max-width: 500px;
+	}
+	.app-download-handimg {
+		right: 50px;
+	}
+}
+
+@media only screen and (max-width:1440px) {
+	.video-box {
+		right: 100px;
+	}
+	.hero-two-area {
+		padding: 330px 0 250px;
+	}
+	.footer-couple-img img {
+		width: 320px;
+	}
+	.wedding-two-theme .widding-one-hero .wedding-couple-img {
+		right: 50px;
+	}
+	.charity-hero-img img {
+		width: 550px;
+	}
+	.conference-hero-content h1 {
+		font-size: 55px;
+	}
+	.conference-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		margin-left: 32px;
+	}
+	.ticket-img {
+	    right: 15px;
+	    bottom: 0;
+	}
+	.ticket-img img {
+		width: 400px;
+	}
+	.app-area .app-img {
+		max-width: 550px;
+		top: 300px;
+	}
+	.fitness-about-img {
+		max-width: 600px;
+	}
+	.fitness-about-col {
+		padding-top: 0;
+	}
+	.bigtitle {
+		font-size: 15vw;
+	}
+	.fitness-counter-area .container-fluid,
+	.fitness-features-area .container-fluid,
+	.blog-four-area .container-fluid {
+		padding: 0 30px;
+	}
+	.app-theme .container {
+		max-width: 1170px;
+	}
+	.app-hero-content h1,
+	.app-download-col h2 {
+		font-size: 40px;
+	}
+	.app-hero-content h1 span,
+	.app-about-area .my-title h2 span,
+	.app-download-col h2 span {
+		font-size: 75px;
+	}
+
+
+}
+
+
+@media only screen and (max-width:1366px) {
+	.hero-area {
+		padding: 220px 0 250px;
+	}
+	.hero-doctor-img img {
+		width: 500px;
+	}
+	.hero-two-area {
+		padding-top: 190px;
+	}
+	.hero-two-area .around-bdr {
+		height: 450px;
+		top: -28px;
+	}
+	.hero-three-area {
+		padding-top: 190px;
+	}
+	.hero-three-area .hero-col {
+		left: 30px;
+	}
+	.hero-three-area .around-bdr {
+	    height: 450px;
+	    top: -28px;
+	}
+	.hero-five-area {
+		padding: 190px 0 250px;
+	}
+	.hero-five-area .around-bdr {
+		height: 470px;
+		top: -30px;
+	}
+	.hero-five-area .hero-col {
+		padding: 40px 30px;
+	}
+	.cv-hero-img {
+	    right: 60px;
+	}
+	.cv-hero-social {
+	    left: 25px;
+	}
+	.cv-hero-img {
+		right: 200px;
+	}
+	.cv-hero-img img {
+		width: 400px;
+	}
+	.cv-two-hero .cv-hero-img img {
+	    width: 440px;
+	}
+	.cv-two-hero .cv-hero-img {
+		right: 160px;
+	}
+	.about-img-1 img {
+	    width: 45vw;
+	}
+	.work-story-box {
+		width: 20%;
+	}
+	.wedding-one-theme .header-area .container-fluid {
+	    padding: 0 100px;
+	}
+	.widding-one-hero-content {
+		margin-left: 85px;
+	}
+	.wedding-partners-logo img {
+		width: 150px;
+	}
+	.footer-couple-img img {
+		width: 270px;
+	}
+	.wedding-two-theme .widding-one-hero .wedding-couple-img {
+		max-width: 420px;
+		right: 100px;
+	}
+	.construction-about-img {
+	    left: 0;
+	}
+	.construction-theme .service-three-col {
+		padding: 30px 20px;
+	}
+	.gym-hero-img img {
+		width: 350px;
+	}
+	.conference-hero-content .countdown .countdown-container {
+		padding: 5px 10px;
+		margin-right: 10px;
+	}
+	.conference-hero-content .countdown .countdown-container span.countdown-heading {
+		font-size: 16px;
+		margin-bottom: 0;
+	}
+	.conference-hero-content .countdown .countdown-container span.countdown-value {
+		font-size: 24px;
+	}
+	.spa-hero-img {
+		width: 490px;
+	}
+	.spa-hero-img-two {
+		width: 220px;
+	}
+	.style-text h2 {
+		font-size: 120px;
+	}
+	.restaurant-theme .big-title {
+		font-size: 180px;
+	}
+	.onslider-content h1 {
+		font-size: 50px;
+	}
+	.ml1 {
+		font-size: 70px;
+	}
+	.app-woman-img {
+		max-width: 420px;
+	}
+
+}
+
+
+@media only screen and (max-width:1350px) {
+	.portfolio-container .grid-item.cv-two-portfolio-box {
+		width: 30%;
+	}
+}
+
+@media only screen and (max-width:1199px) {
+	.header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		margin-left: 20px;
+	}
+	.hero-area {
+		padding: 300px 0 250px;
+	}
+	.hero-col h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.hero-doctor-img img {
+		width: 550px;
+	}
+	.video-box {
+		top: -30px;
+		right: 40px;
+		width: 450px;
+		height: 450px;
+	}
+	.call-col h2 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.call-col h1 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.service-content {
+		padding: 30px 20px;
+	}
+	.portfolio-item-text {
+		bottom: 12px;
+	}
+	.portfolio-item-text h4 {
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.portfolio-item-text p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.portfolio-area .masonry-gallery .grid {
+		width: 33%;
+	}
+	.portfolio-area .masonry-gallery .grid.wd-50percent {
+		width: 100%;
+	}
+	.blog-info-bar ul li {
+		margin-right: 5px;
+	}
+	.my-flex-container div {
+		width: 80px;
+		height: 80px;
+	}
+	.hero-two-area .hero-col h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.hero-two-area {
+		padding: 190px 0 0;
+	}
+	.around-bdr {
+		display: none;
+	}
+	.about-two-col-text {
+		min-width: 480px;
+    	margin-left: -180px;
+	}
+	.hero-three-area {
+	    padding: 190px 0 0;
+	}
+	.slider-main-title {
+		font-size: 40px !important;
+		line-height: 46px !important;
+	}
+	.slider-para {
+		padding: 0 50px;
+	}
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--next:before,
+	.pogoSlider--dirCenterHorizontal .pogoSlider-dir-btn--prev:before {
+		width: 55px;
+	}
+	.team-two-name {
+		left: 0;
+	}
+	.team-two-img ul {
+		bottom: 0;
+		top: 0;
+		border-bottom-left-radius: 20px;
+		border-top-left-radius: 0;
+	}
+	.hero-five-area {
+		padding-top: 200px;
+	}
+	.hero-area {
+		padding-top: 200px;
+	}
+	.cv-one-hero .hero-col h2 {
+		font-size: 60px;
+		margin-bottom: 20px;
+	}
+	.cv-hero-social ul li {
+		display: inline-block;
+		margin: 0;
+		margin-right: 20px;
+	}
+	.cv-hero-social {
+		top: auto;
+		bottom: 50px;
+		border-top: 50px;
+	}
+	.cv-hero-social:before {
+		display: none;
+	}
+	.cv-hero-social {
+	    left: 10px;
+	    bottom: -55px;
+		position: relative;
+	}
+	.cv-hero-social:after {
+		display: none;
+	}
+	.wedding-date-area {
+		padding-top: 80px;
+	}
+	.wedding-box-container {
+		min-height: 318px;
+	}
+	.wedding-partners-area .wedding-partners-col {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+	.wedding-partners-logo {
+		width: 26%;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.wedding-two-theme .widding-one-hero {
+		height: auto;
+		padding: 180px 0 100px;
+	}
+	.wedding-two-theme .hero-col {
+		height: auto;
+	}
+	.wedding-two-theme .widding-one-hero .wedding-couple-img {
+		position: relative;
+		right: auto;
+		top: auto;
+		max-width: 600px;
+		margin: 0 auto;
+	}
+	.wedding-couple-img {
+		display: none;
+	}
+	.wedding-couple-img-two {
+		display: block;
+		text-align: center;
+		margin: 0 15px;
+	}
+	.wedding-two-theme .hero-col {
+		display: block;
+		text-align: center;
+		margin-bottom: 50px;
+	}
+	.wedding-two-theme .wedding-date-area {
+		padding-top: 0;
+	}
+	.wedding-two-theme .widding-one-hero-content {
+		padding: 40px 20px;
+	}
+	.construction-about-img {
+		max-width: 520px;
+	}
+	.construction-theme .about-area {
+		padding-bottom: 70px;
+	}
+	.construction-about-col {
+	    margin-top: 0;
+	}
+	.construction-theme .service-area .construction-service-img {
+		margin-bottom: 50px;
+		text-align: center;
+		min-height: auto;
+		max-height: 260px;
+		overflow: hidden;
+	}
+	.construction-theme .service-area .construction-service-img .my-title .bdr {
+		margin: 0 auto !important;
+		margin-bottom: 20px !important;
+		display: block;
+	}
+	.construction-service-img img {
+		width: 100%;
+	}
+	.construction-theme .blog-info-bar {
+		max-height: inherit !important;
+	}
+	.gym-hero-img {
+	    right: 150px;
+	}
+	.yoga-theme .yoga-hero-img {
+		right: 0;
+	}
+	.yoga-theme .yoga-hero-img img {
+		width: 500px;
+	}
+	.yoga-theme .gym-hero-content h1 {
+		font-size: 40px;
+		line-height: 46px;
+	}
+	.about-counter-col {
+		padding: 20px 5px;
+	}
+	.video-two-area:before {
+		height: 480px;
+	}
+	.classes-area .service-three-col .row {
+		padding: 10px 10px;
+		margin-right: 0;
+    	margin-left: 0;
+	}
+	.charity-hero-img img {
+	    width: 430px;
+	}
+	.conference-hero-content h1 {
+		font-size: 45px;
+	}
+	.conference-hero-content .countdown .countdown-container {
+		width: 80px;
+	}
+	.conference-hero-content .countdown .countdown-container span.countdown-heading {
+		font-size: 13px;
+		margin-bottom: 0;
+	}
+	.conference-theme .header-area .container-fluid, .conference-hero-area .container-fluid {
+	    padding: 0 60px;
+	}
+	.ticket-img img {
+	    width: 340px;
+	}
+	.food-shop-img img {
+	    max-width: 150px;
+	}
+	.app-area .app-img {
+		position: relative;
+		top: auto;
+		left: auto;
+		margin: 0 auto;
+		margin: 0 30px 50px;
+	}
+	.fitness-about-col h2,
+	.fitness-theme .restaurant-title h2,
+	.fitness-hero-content h1,
+	.pagetitle-content h2 {
+		font-size: 36px;
+		font-weight: normal;
+	}
+	.pagetitle-content h2 {
+		top: -40px;
+	}
+	.fitness-about-img {
+		max-width: 500px;
+	}
+	.fitness-counter-col {
+		padding: 40px 20px;
+	}
+	.fitness-counter-col h2.counter {
+		margin-top: -90px;
+	}
+	.fitness-theme .team-two-img ul {
+		align-items: flex-end;
+	}
+	.app-theme .container {
+		max-width: 960px;
+	}
+	.app-woman-img {
+		max-width: 330px;
+	}
+	.app-about-col {
+		display: block;
+	}
+	.app-about-content,
+	.app-about-img {
+		width: 100%;
+	}
+	.app-about-img img {
+		width: 100%;
+		max-width: 500px;
+		margin: 0 auto;
+		display: block;
+		margin-bottom: 50px;
+	}
+	.app-download-handimg {
+		position: relative;
+		margin-top: 50px;
+		right: auto;
+		width: 100%;
+		max-width: 70%;
+		text-align: center;
+		margin: 0 auto;
+		display: block;
+		margin-top: 50px;
+	}
+	.app-download-area {
+		padding-bottom: 0;
+	}
+	.app-works-area {
+		padding-bottom: 120px;
+	}
+	.header-navbar-multipage {
+		padding: 15px 0;
+	}
+
+	/* stellarnav CSS Start */
+	.stellarnav .call-btn-mobile, .stellarnav .close-menu, 
+    .stellarnav .location-btn-mobile, .stellarnav .menu-toggle {
+        padding: 0;
+    }
+    .stellarnav .menu-toggle span.bars {
+        margin-right: 0;
+        top: 0;
+    }
+    .stellarnav.light {
+        margin-top: 17px;
+    }
+    .stellarnav.mobile.left>ul, .stellarnav.mobile.right>ul {
+        max-width: 500px;
+        background-color: #000000;
+    }
+    .stellarnav>ul>li>a {
+        margin-left: 0;
+        padding-left: 30px;
+        margin: 0;
+    }
+    .stellarnav .dd-toggle {
+        right: 0;
+        height: 55px;
+    }
+    .stellarnav a.dd-toggle .icon-plus {
+        width: 5px;
+        margin-right: 30px;
+        text-align: center;
+    }
+    .stellarnav>ul>li.open .icon-plus {
+        width: 5px !important;
+    	margin-right: 30px;
+    }
+    .stellarnav .menu-toggle span.bars span {
+        width: 30px;
+        height: 4px;
+        margin: 0 0 5px;
+        border-radius: 0;
+    }
+    .stellarnav.light a.dd-toggle .icon-plus:after, 
+    .stellarnav.light a.dd-toggle .icon-plus:before,
+    .stellarnav.light .icon-close:after, 
+    .stellarnav.light .icon-close:before {
+    	border-color: #ffffff;
+    }
+    .stellarnav.mobile.left .close-menu, .stellarnav.mobile.right .close-menu {
+        padding-right: 20px;
+        padding-top: 10px;
+    }
+    .stellarnav.mobile.light li a {
+        display: block;
+        padding: 22px 20px;
+        border-color: rgba(255,255,255,0.2);
+    }
+    .stellarnav.light .menu-toggle span.bars span {
+        background-color: #ffffff;
+    }
+    .stellarnav.mobile>ul>li>a {
+        
+    }
+    .stellarnav>ul>li>a:hover {
+        color: #707070;
+    }
+    .stellarnav.mobile.light ul ul {
+    	background-color: #707070;
+    }
+    .stellarnav.mobile.light ul ul li a:hover {
+    	background-color: #ffffff;
+    	color: #000000 !important;
+    }
+    
+    /* Nav CSS End */
+	
+
+
+
+}
+
+@media only screen and (max-width:1024px) {
+	.charity-hero-img {
+	    right: 15px;
+	}
+	.spa-hero-img {
+		width: 420px;
+	}
+	.spa-hero-img-two {
+		right: 34%;
+	}
+}
+
+@media only screen and (max-width:991px) {
+	.hero-area {
+		height: auto;
+		text-align: center;
+		padding-top: 260px;
+		padding-bottom: 0;
+	}
+	.hero-doctor-img {
+		position: relative;
+		right: auto;
+		bottom: 0;
+		margin-top: 50px;
+	}
+	.header-navbar::before {
+		background: none;
+	}
+	.navbar-toggler {
+		background: #51b1a7;
+		padding: 5px 8px;
+	}
+	.navbar-toggler-icon {
+		position: relative;
+	}
+	.navbar-toggler-icon:before {
+		content: "\efa2";
+		font-family: IcoFont;
+		color: #ffffff;
+		font-size: 35px;
+		position: absolute;
+		left: -2px;
+		top: -3px;
+		z-index: 0;
+	}
+	.navbar-collapse {
+		background: #ffffff;
+	}
+	.header-area ul li {
+		padding: 12px 0;
+		border-bottom: 1px solid #dddddd;
+		-webkit-transition: all 0.3s ease-in-out;
+    	-moz-transition: all 0.3s ease-in-out;
+    	-o-transition: all 0.3s ease-in-out;
+    	-ms-transition: all 0.3s ease-in-out;
+    	transition: all 0.3s ease-in-out;
+	}
+	.header-area ul li:hover {
+		background: #ffffff;
+		-webkit-transition: all 0.3s ease-in-out;
+    	-moz-transition: all 0.3s ease-in-out;
+    	-o-transition: all 0.3s ease-in-out;
+    	-ms-transition: all 0.3s ease-in-out;
+    	transition: all 0.3s ease-in-out;
+	}
+	.header-area .header-navbar-multipage ul li {
+		padding: 0;
+		border-bottom: none;
+	}
+	.header-area ul li:last-child {
+		margin-bottom: 0;
+		border: none;
+	}
+	.about-col img {
+		margin: 0 auto;
+		display: block;
+	}
+	.call-area {
+		text-align: center;
+	}
+	.video-box {
+		position: relative;
+		top: auto;
+		right: auto;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	.team-area {
+		padding-bottom: 110px;
+	}
+	.team-item {
+		padding-left: 0;
+		padding-bottom: 0;
+		text-align: center;
+	}
+	.team-item .team-img {
+		position: relative;
+		left: auto;
+		top: auto;
+	}
+	.team-item .team-img img {
+		width: 370px !important;
+		height: auto !important;
+		margin: 0 auto;
+	}
+	.team-item .team-img:before {
+		left: 19%;
+		top: 30px;
+	}
+	.team-item h4 {
+		margin-top: 20px;
+	}
+	.item-number {
+		position: relative;
+		right: auto;
+		top: auto;
+		margin-top: 50px;
+	}
+	.team-item .bdr {
+		margin: 0 auto;
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	.team-info ul {
+		margin-bottom: 20px;
+	}
+	.team-info ul li {
+		display: inline-block;
+		margin: 0 5px;
+	}
+	.team-area .owl-controls {
+		top: -190px;
+	}
+	.blog-img img {
+		width: 100%;
+	}
+	.navbar-expand-lg>.container, 
+	.navbar-expand-lg>.container-fluid, 
+	.navbar-expand-lg>.container-lg, 
+	.navbar-expand-lg>.container-md, 
+	.navbar-expand-lg>.container-sm, 
+	.navbar-expand-lg>.container-xl {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.header-navbar .navbar-expand-lg .navbar-nav .nav-link:hover {
+		color: #30336B;
+	}
+	.header-area .header-top-col ul li:hover {
+		background: transparent;
+		border-bottom: none;
+		
+	}
+	.header-area .header-top-col ul li {
+		padding: 0;
+		margin: 0;
+		border-bottom: none;
+		margin-right: 15px;
+	}
+	.testimonial-col .owl-theme .owl-dots .owl-dot span {
+		margin-right: 5px;
+		margin-left: 5px;
+	}
+	.form-col form {
+		margin-bottom: 30px;
+	}
+	.my-flex-container {
+		flex-wrap: inherit;
+		justify-content: inherit;
+		display: inherit;
+	}
+	.my-flex-container div {
+		display: inline-block;
+		margin-right: 20px;
+		margin-bottom: 20px;
+	}
+	.instagram-col {
+		margin-bottom: 0;
+	}
+	.copyright-col p {
+		text-align: center;
+	}
+	.overlay-content-col .form-control {
+		margin-bottom: 15px;
+	}
+	.hero-two-area {
+		padding: 200px 0 70px;
+	}
+	.about-two-col-text {
+		min-width: 100%;
+		margin-left: 0;
+		margin-top: 0;
+	}
+	.counter-col {
+		margin-top: 25px;
+	}
+	.hero-three-area {
+		padding: 200px 0 70px;
+	}
+	.hero-three-area .hero-col {
+		left: 0;
+	}
+	.testimonial-three-area .testimonial-item-two {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.hero-five-area {
+		padding-top: 200px;
+    	padding-bottom: 80px;
+	}
+	.cv-hero-img {
+		position: relative;
+		right: auto;
+	}
+	.cv-hero-img img {
+		width: auto;
+	}
+	.hero-area {
+		padding-top: 190px;
+	}
+	.cv-hero-social {
+		left: auto;
+		bottom: auto;
+		transform: translateY(0%);
+		margin-top: 30px;
+	}
+	.cv-hero-social ul li {
+		margin-right: 0;
+		margin: 0 10px;
+	}
+	.cv-one-service-area .img1 {
+		display: none;
+	}
+	.cv-one-theme .about-area {
+		padding-bottom: 120px;
+	}
+	.work-stroey-area {
+		padding-top: 0;
+	}
+	.cv-service-carousel {
+		padding-right: 0;
+	}
+	.work-stroey-col img {
+		width: 100%;
+	}
+	.main-timeline {
+		margin-top: 50px;
+	}
+	.cv-one-theme .contact-area .contact-info-col .contact-info-box {
+		padding: 30px 15px;
+	}
+	.cv-one-theme .form-col form {
+		margin-bottom: 0;
+	}
+	.cv-two-hero .hero-col {
+		height: auto;
+	}
+	.cv-two-hero .cv-hero-img {
+		position: relative;
+		bottom: 0;
+	}
+	.about-img-1 {
+		position: relative !important;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.about-img-1 img {
+		width: 90%;
+		margin: 0 auto;
+	}
+	.work-story {
+		display: block;
+	}
+	.work-story:before {
+		display: none;
+	}
+	.work-story-box {
+		width: 70%;
+		margin: auto;
+		margin-bottom: 120px;
+	}
+	.work-story .work-story-box:nth-child(1){
+		margin-top: 100px;
+	}
+	.cv-two-portfolio-area {
+		padding-top: 0;
+	}
+	.portfolio-container .grid-item.cv-two-portfolio-box {
+		width: 45%;
+	}
+	.cv-two-theme .testimonial-area:before {
+		width: 100%;
+	}
+	.cv-two-theme .testimonial-area:after {
+		content: "";
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		left: 0;
+		top: 0;
+		z-index: 0;
+		background: rgb(9,199,95);
+        background: -moz-linear-gradient(0deg, rgba(9,199,95,0) 0%, rgba(9,199,95,0.9) 70%);
+        background: -webkit-linear-gradient(0deg, rgba(9,199,95,0) 0%, rgba(9,199,95,0.9) 70%);
+        background: linear-gradient(0deg, rgba(9,199,95,0) 0%, rgba(9,199,95,0.9) 70%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#09c75f",endColorstr="#09c75f",GradientType=1);
+	}
+	.cv-two-theme .testimonial-area .container-fluid {
+		position: relative;
+		z-index: 2;
+	}
+	.cv-two-theme .testimonial-area .container-fluid .cv-title p {
+		color: #ffffff;
+	}
+	.wedding-one-theme .header-area .header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		color: #444444;
+	}
+	.widding-one-hero-content {
+		margin: 0 auto;
+		text-align: center;
+	}
+	.couple-col {
+		margin-bottom: 30px;
+	}
+	.wedding-one-story-area {
+		padding-top: 90px;
+	}
+	.wedding-box-container {
+		min-height: auto;
+		padding-bottom: 20px;
+	}
+	.wedding-one-story-col img {
+		margin-bottom: 20px;
+	}
+	.wedding-one-theme .portfolio-container .grid-item.cv-two-portfolio-box {
+		width: 33%;
+	}
+	.wedding-one-theme .cv-two-portfolio-area {
+		padding-top: 120px;
+	}
+	.footer-couple-img img {
+	    width: 180px;
+	}
+	.widding-one-hero {
+		background-position: right;
+	}
+	.wedding-date-area {
+		padding-top: 0;
+	}
+	.wedding-two-theme .countdown {
+		width: 580px;
+	    height: 535px;
+	    padding-top: 225px;
+	}
+	.countdown .countdown-container {
+	  	margin: 0 20px;
+	}
+	.wedding-two-theme .story-col {
+		display: block;
+	}
+	.wedding-two-theme .story-img img {
+		width: 100%;
+	}
+	.wedding-two-theme .love-arrow-img {
+		display: none;
+	}
+	.wedding-two-theme .story-col {
+		min-height: auto;
+	}
+	.wedding-two-theme .story-col h3 {
+		margin-bottom: 0;
+	}
+	.wedding-two-theme .story-col h5 {
+		margin-bottom: 10px;
+	}
+	.wedding-two-theme .form-col form {
+		margin-bottom: 0;
+	}
+	.construction-theme .header-navbar:before {
+	    width: 30%;
+	    display: none;
+	}
+	.construction-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		color: #444444;
+	}
+	.construction-theme .navbar-toggler {
+		background: rgb(254,141,42);
+        background: -moz-linear-gradient(-125deg, rgba(254,141,42,1) 0%, rgba(251,192,16,1) 100%);
+        background: -webkit-linear-gradient(-125deg, rgba(254,141,42,1) 0%, rgba(251,192,16,1) 100%);
+        background: linear-gradient(-125deg, rgba(254,141,42,1) 0%, rgba(251,192,16,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fe8d2a",endColorstr="#fbc010",GradientType=1);
+	}
+	.construction-about-img {
+		position: relative;
+		max-width: 100%;
+		padding: 0 30px;
+		top: auto;
+		margin-bottom: 50px;
+	}
+	.construction-theme .counter-two-col {
+		margin-bottom: 30px;
+	}
+	.counter-two-area .row {
+		bottom: 0;
+	}
+	.counter-two-area {
+		padding: 120px 0 90px;
+	}
+	.gym-hero-area,
+	.gym-hero-col {
+		height: auto;
+	}
+	.gym-hero-img {
+		position: relative;
+		right: auto;
+		text-align: center;
+	}
+	.gym-hero-col {
+		padding: 150px 0 50px;
+	}
+	.gym-hero-content {
+		position: relative;
+		top: auto;
+		transform: translateY(0);
+		min-height: 210px;
+	}
+	.gym-theme .navbar-toggler {
+		background: #FEC10E;
+	}
+	.gym-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		color: #444444;
+	}
+	.gym-theme .about-two-area img {
+		margin-bottom: 30px;
+	}
+	.gym-theme .header-area .container-fluid {
+		padding: 0 30px;
+	}
+	.gym-theme .contact-area .contact-col {
+		padding: 30px 20px;
+	}
+	.gym-theme .contact-area .contact-info-col ul {
+		margin-bottom: 30px;
+	}
+	.yoga-theme .yoga-hero-img {
+		position: relative;
+		top: auto;
+		text-align: center;
+	}
+	.yoga-theme .yoga-hero-img img {
+		width: auto;
+		height: auto;
+	}
+	.yoga-theme .hero-social {
+		position: relative;
+		left: auto;
+		bottom: auto;
+		margin-bottom: 50px;
+		text-align: center;
+	}
+	.yoga-theme .gym-hero-content {
+		text-align: center;
+	}
+	.yoga-about-img {
+		margin-bottom: 120px !important;
+	}
+	.yoga-theme .testimonial-col img {
+		display: none;
+	}
+	.yoga-theme .cv-two-portfolio-area {
+		padding-top: 120px;
+	}
+	.yoga-theme .video-two-area:before {
+	    height: 370px;
+	}
+	.yoga-theme .contact-info-col {
+		margin-bottom: 30px;
+	}
+	.counter-col ul li {
+		width: 50%;
+	}
+	.charity-hero-img {
+		position: relative;
+		right: auto;
+		top: auto;
+		transform: translateY(0%);
+	}
+	.charity-theme .gym-hero-area {
+		padding-bottom: 120px;
+		text-align: center;
+	}
+	.charity-hero-img img {
+		width: auto;
+		padding: 0 15px;
+	}
+	.charity-theme .gym-hero-content h1 {
+		font-size: 40px;
+		line-height: 46px;
+	}
+	.charity-theme .navbar-toggler {
+		background: #79C45D;
+	}
+	.charity-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		color: #444444;
+	}
+	.yoga-theme .navbar-toggler {
+		background: #84DAFB;
+	}
+	.charity-theme .gym-hero-content .theme-btn {
+		margin: 0 10px;
+		margin-bottom: 10px;
+	}
+	.charity-theme .yoga-about-img {
+    	margin-bottom: 30px !important;
+	} 
+	.charity-theme .counter-two-area {
+		padding: 120px 0 90px;
+	}
+	.charity-theme .counter-two-col {
+		margin-top: 0 !important;
+	}
+	.charity-theme .cv-two-portfolio-area {
+		padding-top: 120px;
+		padding-bottom: 110px !important;
+		overflow: hidden;
+	}
+	.conference-hero-content {
+		position: relative;
+		transform: translateY(0);
+		text-align: center;
+	}
+	.conference-hero-content .countdown {
+	  justify-content: center;
+	}
+	.conference-hero-img {
+		margin-top: 50px;	
+	}
+	.yoga-about-img {
+	    margin-bottom: 30px !important;
+	}
+	.conference-schedule-col .nav-pills .nav-link {
+		padding: 10px 10px;
+		font-size: 16px;
+	}
+	.ticket-img {
+		display: none;
+	}
+	.electricity-theme .navbar-toggler {
+		background: #00006E;
+	}
+	.electricity-theme .about-area:before {
+		display: none;
+	}
+	.electricity-theme .about-area:after {
+		height: 60%;
+	}
+	.electricity-theme .portfolio-area .masonry-gallery .grid {
+		width: 50%;
+	}
+	.electricity-theme .counter-col ul li {
+		margin-top: -10px;
+	}
+	.electricity-theme .testimonial-two-area {
+		margin-top: -10px;
+	}
+	.blog-three-content {
+		width: 100%;
+		margin-top: 0;
+	}
+	.blog-three-content ul li {
+		margin: 0 2px;
+	}
+	.form-col form {
+		margin-top: 30px;
+	}
+	.spa-theme .navbar-toggler {
+		background: #EAD2A2;
+	}
+	.spa-theme .header-navbar.sticky .navbar-expand-lg .navbar-nav .nav-link {
+		color: #444444;
+	}
+	.spa-hero-img {
+		display: none;
+	}
+	.spa-hero-area {
+		background-position: left;
+	}
+	.spa-hero-area {
+		height: auto;
+		padding-top: 100px;
+	}
+	.spa-hero-col {
+	    height: auto;
+	    position: relative;
+	    padding: 0;
+	}
+	.spa-hero-img-two {
+	    right: auto;
+	    bottom: auto;
+	    position: relative;
+	    width: auto;
+	    margin: 0 auto;
+	    text-align: center;
+	}
+	.spa-hero-content {
+		position: relative;
+		top: auto;
+		transform: translateY(0);
+		margin-bottom: 50px;
+		text-align: center;
+	}
+	.yoga-about-img {
+		text-align: center;
+	}
+	.video-two-area:before {
+	    height: 380px;
+	}
+	.spa-theme .video-two-col {
+	    border-radius: 30px;
+	    border-top-right-radius: 0;
+	}
+	.electricity-theme .header-navbar.sticky .navbar-expand-lg .navbar-nav .nav-link {
+		color: #444444;
+	}
+	.support-number {
+	    position: absolute;
+	    top: 40px;
+	    right: 20px;
+	    z-index: 0;
+	}
+	.support-number h2 {
+		font-size: 32px;
+		line-height: 1.2;
+	}
+	.header-area .header-top-col ul li:last-child {
+		display: none;
+	}
+	.shopping-cart {
+		position: absolute;
+		right: 100px;
+		top: 5px;
+		z-index: 0;
+	}
+	.restaurant-theme .navbar-collapse {
+		background-color: #101010;
+	}
+	.restaurant-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link:hover {
+		color: #E4002B;
+	}
+	.restaurant-theme .header-area ul li:hover {
+		background-color: transparent;
+	}
+	.restaurant-theme .navbar-toggler {
+		border-radius: 0;
+		background-color: #E4002B;
+	}
+	.ml1 {
+		font-size: 50px;
+	}
+	.style-text h2,
+	.restaurant-theme .big-title  {
+		font-size: 100px;
+	}
+	.restaurant-about-col h2 {
+		margin-top: 100px;
+	}
+	.restaurant-about-col .restaurant-about-img-2 {
+		left: 0;
+	}
+	.fitness-theme .navbar-toggler {
+		background-color: transparent;
+	}
+	.fitness-theme .navbar-collapse {
+		background-image: url(../images/fitness/bg/brushed-alum-dark.webp);
+		background-repeat: repeat;
+		background-color: #000000;
+		margin-top: 20px;
+	}
+	.fitness-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link:hover {
+		color: #FFB14F;
+	}
+	.fitness-theme .header-area ul li:hover {
+		background-color: transparent;
+	}
+	.fitness-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		margin-left: 0;
+	}
+	.fitness-theme .header-area .header-top-col ul li:last-child {
+		display: inline-block;
+	}
+	.fitness-about-img {
+		position: relative;
+		left: 0;
+		bottom: 0;
+		margin-top: 50px;
+		max-width: 100%;
+		padding-right: 50px;
+	}
+	.fitness-counter-cols {
+		flex-wrap: wrap;
+	}
+	.fitness-counter-col {
+		width: 47%;
+		margin-bottom: 80px;
+	}
+	.fitness-counter-area {
+		padding-bottom: 40px;
+		padding-top: 170px;
+	}
+	.fitness-theme .contact-info-col {
+		display: block;
+	}
+	.fitness-theme .contact-info-box {
+		width: 100%;
+	}
+	.app-theme .navbar-toggler {
+		background-color: #000000;
+		border-radius: 0 !important;
+	}
+	.app-theme .navbar-collapse {
+		margin-top: 20px;
+	}
+	.app-woman-img {
+		display: none;
+	}
+	.app-hero-content {
+		text-align: center;
+		width: 100%;
+	}
+	.app-hero-content h1 {
+		margin-bottom: 20px;
+	}
+	.app-download-btns {
+		margin-top: 40px;
+	}
+	.app-theme .counter-two-area {
+		padding-bottom: 160px;
+	}
+	.counter-two-col {
+		margin-bottom: 30px;
+	}
+	.app-theme .pricingTable-four .pricing-content-four li {
+		display: block;
+		margin-right: 0;
+	}
+	.app-theme .cv-two-portfolio-area {
+		padding-top: 120px;
+	}
+	.fitness-multipage-theme .fitness-about-area {
+		padding-bottom: 90px;
+	}
+	.fitness-multipage-theme .fitness-about-area .fitness-about-col {
+		padding-bottom: 30px;
+	}
+	
+}
+
+@media only screen and (max-width:767px) {
+	.header-top-col {
+		text-align: center;
+	}
+	.header-top-col.text-right {
+		text-align: center !important;
+		margin-top: 10px;
+	}
+	.header-navbar .navbar {
+		padding: 10px 0;
+	}
+	.service-img img {
+		width: 100%;
+	}
+	.my-title h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.portfolio-area .masonry-gallery .grid {
+		width: 50%;
+	} 
+	.overlay .closebtn {
+		font-size: 25px;
+		top: 10px;
+    	right: 10px;
+	}
+	.about-col h2,
+	.overlay-content-col h2,
+	.page-title-col h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.hero-two-area,
+	.hero-three-area {
+		padding: 240px 0 70px;
+	}
+	.hero-three-area .hero-col {
+		min-width: 100%;
+	}
+	.hero-three-area .hero-img {
+		display: none;
+	}
+	.makeup-theme .consultation-btn {
+		background-color: #E866A6;
+	}
+	.testimonial-three-area .testimonial-item-two {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.slider-main-title {
+	    font-size: 30px !important;
+	    line-height: 40px !important;
+	    margin-bottom: 10px;
+	}
+	.slider-para {
+		margin-bottom: 20px !important;
+	}
+	.silder-elements .theme-btn {
+		display: none;
+	}
+	.hero-five-area {
+	    padding-top: 250px;
+	    padding-bottom: 80px;
+	}
+	.page-title-col {
+		width: 100%;
+	}
+	.tag-bar-col {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.tag-bar {
+		padding-bottom: 10px;
+	}
+	.cv-one-theme .contact-area .contact-info-col {
+		display: block;
+	}
+	.cv-one-theme .contact-area .contact-info-col .contact-info-box {
+		width: 100%;
+	}
+	.cv-one-theme .form-col {
+		margin-top: 30px;
+	}
+	.portfolio-container .grid-item.cv-two-portfolio-box {
+		width: 100%;
+	}
+	.portfolio-container .grid-item.cv-two-portfolio-box {
+		margin-left: 0;
+	}
+	.cv-two-theme .contact-area .contact-info-col {
+		display: block;
+	}
+	.widding-one-hero .hero-col h2 {
+		font-size: 50px;
+	}
+	.wedding-one-theme .header-area .container-fluid {
+	    padding: 0 30px;
+	}
+	.wedding-one-theme .portfolio-container .grid-item.cv-two-portfolio-box {
+		width: 50%;
+	}
+	.footer-couple-img img {
+		display: none;
+	}
+	.wedding-two-theme .countdown {
+		background-image: none;
+		width: auto;
+		height: auto;
+		padding-top: 0;
+	}
+	.wedding-two-theme .couple-area {
+		padding-bottom: 90px;
+	}
+	.construction-about-col h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.construction-theme .service-three-col {
+		margin-bottom: 30px;
+	}
+	.construction-theme .testimonial-item-two {
+		padding: 40px 20px;
+	}
+	.construction-theme .testimonial-item-two .testimonial-two-img {
+		position: relative;
+		height: auto;
+		margin-bottom: 20px;
+		width: 100%;
+		background: transparent;
+	}
+	.construction-theme .testimonial-item-two .testimonial-two-img img {
+		top: auto;
+		transform: translateY(0%);
+		position: relative;
+	}
+	.gym-theme .portfolio-area .owl-item {
+		opacity: 1;
+	}
+	.video-two-area:before {
+	    height: 300px;
+	}
+	.yoga-theme .header-navbar .navbar-expand-lg .navbar-nav .nav-link {
+		color: #444444;
+	}
+	.yoga-theme .navbar-toggler {
+		background: #84DAFA;
+	}
+	.yoga-about-col h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.yoga-theme .video-two-area:before {
+	    height: 300px;
+	}
+	.charity-theme .contact-two-area .contact-info-col {
+		display: block;
+	}
+	.my-select {
+		margin-bottom: 20px;
+	}
+	.ticket-area .form-control {
+		margin-bottom: 20px;
+	}
+	.conference-theme .theme-btn {
+		
+	}
+	.contact-two-area .contact-info-col {
+		display: block;
+	}
+	.electricity-theme .testimonial-item-two:before {
+		right: 68px;
+		transform: rotate3d(1, 1, 1, 95deg);
+	}
+	.electricity-theme .portfolio-area .masonry-gallery .grid {
+		width: 100%;
+	}
+	.electricity-theme .pricingTable-four:before {
+		width: 480px;
+	}
+	.electricity-theme .pogoSlider {
+	    height: 55vh;
+	}
+	.spa-hero-content h1 {
+		font-size: 40px;
+		line-height: 1.2; 
+	}
+	.spa-theme .pricingTable-four:before {
+		width: 580px;
+	}
+	.spa-theme .theme-btn {
+		display: block;
+	}
+	.service-five-col h2 {
+		top: 5px;
+	    right: 15px;
+	    font-size: 36px;
+	}
+	.plumber-theme .about-three-col h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.about-content {
+		width: 100%;
+		margin-top: 0;
+	}
+	.electricity-theme .pricingTable-four:before {
+	    width: 580px;
+	}
+	.restaurant-theme .header-cart-top-col {
+	    display: none;
+	}
+	.restaurant-about-col h2,
+	.restaurant-title h2,
+	.app-col h2 {
+		font-size: 36px;
+	}
+	.fitness-theme .language-col {
+		display: none;
+	}
+	.fitness-features-col {
+		flex-wrap: wrap;
+	}
+	.fitness-features-img,
+	.fitness-features-content {
+		width: 100%;
+	}
+	.app-theme .header-area .container-fluid {
+		padding: 0 15px;
+	}
+	.app-theme .header-area .navbar img {
+		width: 170px;
+	}
+	.app-hero-content h1 span {
+		font-size: 60px;
+	}
+	.app-hero-content h1,
+	.app-download-col h2,
+	.app-works-col h2,
+	.app-theme .restaurant-title h2 {
+		font-size: 30px;
+	}
+	.app-hero-content h4 {
+		font-size: 20px;
+		font-weight: normal;
+	}
+	.app-about-area .my-title h2 span,
+	.app-download-col h2 span {
+		font-size: 48px;
+	}
+	.app-download-btns .theme-btn {
+		margin-left: 0 !important;
+	}
+	.app-works-area {
+		padding-top: 50px;
+		padding-bottom: 120px;
+	}
+	.app-theme,
+	.app-theme .pricingTable-four .pricing-content-four li {
+		font-size: 16px;
+		line-height: 28px;
+	}
+}
+
+@media only screen and (max-width:575px) {
+	.video-box {
+		width: 270px;
+		height: 270px;
+	}
+	.team-item .team-img img {
+		width: 310px !important;
+	}
+	.team-item .team-img:before {
+		width: 320px;
+    	height: 360px;
+	}
+	.portfolio-area .masonry-gallery .grid {
+		width: 100%;
+	} 
+	.counter-col ul li {
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.pricing-area {
+		padding-top: 50px;
+	}
+	.blog-info-bar img {
+		position: relative;
+		left: auto;
+		top: auto;
+		margin: 0 auto;
+		margin-bottom: 10px;
+	}
+	.blog-info-bar {
+		max-height: inherit;
+		border-radius: 5px;
+		margin-left: 0;
+		padding: 20px 10px;
+		margin-bottom: 25px;
+		text-align: center;
+	}
+	.blog-col-content {
+		padding-top: 30px;
+		text-align: center;
+	}
+	.blog-col-content {
+		padding: 20px 20px;
+	}
+	.contact-col {
+		padding: 20px 20px;
+	}
+	.about-two-col-text {
+		padding: 20px 20px;
+	}
+	.hero-col .theme-btn {
+		margin-right: 0;
+	}
+	.service-two-col {
+		margin-left: 0;
+		padding: 30px 20px 30px 20px;
+		text-align: center;
+	}
+	.service-two-col img {
+		position: relative;
+		left: auto;
+		top: auto;
+		margin-bottom: 20px;
+	}
+	.testimonial-two-area .owl-theme .owl-dots .owl-dot span {
+		width: 30px;
+	}
+	.testimonial-two-area .owl-theme .owl-dots .owl-dot.active span {
+		width: 60px;
+	}
+	.slider-para {
+		display: none;
+	}
+	.slider-main-title {
+		padding: 0 50px;
+	}
+	.about-two-area .about-two-col img {
+		border-top-right-radius: 100px;
+	}
+	.hero-five-area .hero-col {
+	    padding: 28px 20px;
+	}
+	.my-pagination ul li a {
+	    width: 35px;
+	    height: 35px;
+	    text-align: center;
+	    line-height: 35px;
+	    border: 1px solid #30336B;
+	    font-size: 17px;
+	    font-weight: bold;
+	}
+	.my-pagination ul li a i {
+		font-size: 25px;
+	}
+	.heighlight-box {
+		margin-left: 0;
+		padding: 0px 2px;
+
+	}
+	.heighlight-box img {
+		position: relative;
+		top: auto;
+		left: auto;
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+	.middle-comment {
+		margin-left: 0;
+	}
+	.cv-two-vedio-area h1 {
+		font-size: 40px;
+		line-height: 46px;
+	}
+	.work-story-box {
+		width: 100%;
+	}
+	.cv-two-work-stroey-area .container-fluid,
+	.cv-two-portfolio-area .container-fluid {
+		padding: 0 15px;
+	}
+	.cv-two-theme .testimonial-area .testimonial-col-two {
+		padding: 0;
+	}
+	.cv-two-theme .contact-area .form-col {
+		padding: 20px;
+	}
+	.countdown .countdown-container {
+	  margin: 0 10px;
+	}
+	.wedding-partners-logo {
+		width: 50%;
+		margin-bottom: 20px;
+		text-align: center;
+		padding: 0 10px;
+	}
+	.wedding-one-theme .portfolio-container .grid-item.cv-two-portfolio-box {
+		width: 100%;
+	} 
+	.thankyou-box h2 {
+		font-size: 24px;
+	}
+	.wedding-two-theme .wedding-partners-area .wedding-partners-col .wedding-partners-logo {
+		width: 50%;
+	}
+	.construction-about-col .nav-pills .nav-link {
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	.gym-theme .header-area .container-fluid {
+		padding: 0 15px;
+	}
+	.gym-hero-content h1,
+	.gym-about-col h2 {
+		font-size: 30px;
+    	line-height: 40px;
+	}
+	.gym-theme .counter-two-col {
+		margin-top: 0 !important;
+	}
+	.yoga-theme .about-counter-col {
+		margin-bottom: 30px;
+	}
+	.yoga-about-area {
+		padding-bottom: 60px;
+	}
+	.yoga-theme .header-area .container-fluid {
+		padding: 0 15px;
+	}
+	.yoga-theme .gym-hero-content h1 {
+	    font-size: 36px;
+	    line-height: 46px;
+	}
+	.yoga-theme .testimonial-col {
+		display: block;
+	}
+	.yoga-theme .testimonial-col .my-testimonial-box {
+		width: 100%;
+		margin-bottom: 30px !important;
+	}
+	.yoga-theme .video-two-area:before {
+	    height: 250px;
+	}
+	.charity-theme #map {
+	  height: 350px;
+	}
+	.header-top-col {
+		
+	}
+	.conference-theme .header-area .container-fluid, 
+	.conference-hero-area .container-fluid {
+		padding: 0 15px;
+	}
+	.conference-schedule-col .nav {
+		display: block;
+		text-align: center;
+
+	}
+	.conference-theme #map {
+		height: 350px;
+	}
+	.electricity-theme .header-top-area {
+		padding: 0;
+	}
+	.electricity-theme .pogoSlider {
+	    height: 42vh;
+	}
+	.electricity-theme .testimonial-item-two:before {
+		display: none;
+	}
+	.plumber-theme .testimonial-two-area .owl-theme .owl-dots .owl-dot.active span {
+		width: 30px;
+	}
+	.restaurant-theme .header-top-area {
+		padding-top: 0;
+	}
+	.sidebar-social-icons ul li a i {
+		font-size: 18px;
+		padding: 8px 8px;
+	}
+	.style-text h2, .restaurant-theme .big-title {
+	    font-size: 60px;
+	}
+	.onslider-content h1, .ml1 {
+	    font-size: 30px;
+	}
+	.restaurant-about-col .restaurant-about-img-2 {
+		max-width: 200px;
+    	max-height: 200px;
+	}
+	.app-col ul {
+		display: block;
+	}
+	.app-col ul li {
+		width: 100%;
+	}
+	.fitness-theme .header-top-area {
+		
+	}
+	.fitness-theme .navbar a .themelogo {
+		max-width: 150px;
+	}
+	.fitness-hero-content {
+		margin-top: 0;
+		padding: 40px 20px;
+	}
+	.fitness-hero-content h1 {
+		font-size: 36px;
+		margin-bottom: 20px;
+	}
+	.fitness-hero-content h4 {
+		top: -22px;
+		font-size: 16px;
+	}
+	.fitness-counter-area .container-fluid,
+	.fitness-features-area .container-fluid,
+	.blog-four-area .container-fluid {
+		padding: 0 15px;
+	}
+	.fitness-counter-col {
+		width: 100%;
+	}
+	.bigtitle {
+		font-size: 18vw;
+	}
+	.app-download-btns .theme-btn {
+		margin: 0 20px;
+		margin-bottom: 20px;
+	}
+	.app-about-col {
+		padding-right: 20px;
+		padding-left: 20px;
+		padding-top: 30px;
+	}
+	.theme-logo img {
+	    max-width: 160px;
+	}
+	.error-page-col h2 {
+		font-size: 100px;
+	}
+	.error-page-col h4 {
+		font-size: 24px;
+	}
+	.fitness-multipage-theme .blog-info-bar {
+		padding: 20px 20px;
+		max-width: 100%;
+	}
+
+}
+
+@media only screen and (max-width:480px) {
+	.hero-col .theme-btn {
+		margin-bottom: 10px;
+	}
+	.portfolio-item-overlay i {
+		font-size: 30px;
+	}
+	.my-faq-accordion .card .card-header h5 button {
+		font-size: 16px;
+		line-height: 28px;
+		padding: 13px 0 13px 70px;
+	}
+	.my-faq-accordion .card .card-header button.btn-link i {
+		font-size: 24px;
+	}
+	.subscribe-col .input-group .btn {
+		min-width: 100px;
+		font-size: 16px;
+	}
+	.hero-col h2,
+	.hero-two-area .hero-col h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.hero-two-area {
+		padding: 260px 0 70px;
+	}
+	.hero-two-area .hero-col,
+	.hero-three-area .hero-col {
+		padding: 30px 20px;
+	}
+	.comment-form-box {
+		padding: 30px 20px;
+	}
+	.cv-one-hero .hero-col h2 {
+	    font-size: 40px;
+	    margin-bottom: 20px;
+	}
+	.cv-one-hero .hero-col p {
+		margin-bottom: 30px;
+	}
+	.video-circle {
+		margin-left: 20px;
+    	padding-left: 20px;
+	}
+	.video-circle i {
+		font-size: 55px;
+	}
+	.btnandvideo .theme-btn {
+		padding: 17px 20px 15px;
+	}
+	.cv-portfolio-area .container-fluid {
+	    padding: 0 15px;
+	}
+	.cv-one-theme .blog-area .blog-col-content {
+	    padding: 30px 20px;
+	}
+	.footer-two-area .subscribe-col {
+		padding: 20px 15px;
+	}
+	.widding-one-hero .hero-col h2 {
+	    font-size: 36px;
+	}
+	.wedding-one-theme .header-area .container-fluid {
+	    padding: 0 15px;
+	}
+	.countdown .countdown-container span.countdown-value {
+		font-size: 30px;
+	}
+	.wedding-one-theme .cv-two-vedio-area h1 {
+		font-size: 42px;
+	}
+	.wedding-one-title h2,
+	.wedding-date-area .Wedding-date-col h2 {
+		font-size: 40px;
+	}
+	.countdown .countdown-container span.countdown-value {
+		font-size: 30px !important;
+	}
+	.gallery-item-title {
+		width: 100%;
+	}
+	.conference-schedule-box {
+		padding: 30px 20px;
+		text-align: center;
+	}
+	.conference-schedule-img {
+		position: relative;
+		left: auto;
+		top: auto;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	.portfolio-area .gallery-filters ul li {
+		margin: 0 5px;
+	}
+	.video-two-col i {
+		font-size: 50px;
+		margin-top: -25px;
+    	margin-left: -25px;
+	}
+	.team-area {
+	    padding-bottom: 165px;
+	}
+	.team-area .owl-controls {
+	    top: auto;
+	    bottom: -60px;
+	    left: 0;
+	}
+	.call-btns {
+		display: block;
+		position: fixed;
+		left: 10px;
+		bottom: 5px;
+		z-index: 2;
+	}
+	.call-btns ul li {
+		width: 45px;
+		height: 45px;
+		border-radius: 50%;
+		background: #1BD741;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.call-btns ul li a {
+		display: block;
+		color: #ffffff;
+		line-height: 45px;
+		font-size: 25px;
+	}
+	.call-btns ul li:last-child {
+		background: #FEC10E;
+	}
+	.whatwe-offer-col img {
+		width: 50px;
+	}
+	.whatwe-offer-col {
+		padding-left: 100px;
+	}
+	.foodimg-1,
+	.foodimg-2 {
+		max-width: 380px;
+	}
+	.whatwe-offer-col:hover {
+		transform: scale(1);
+	}
+	.footer-subscribe-box .input-group .btn {
+		font-size: 16px;
+		min-width: 100px;
+	}
+	.footer-three-col ul li  {
+		margin: 0 5px;
+	}
+	.map-area .btn {
+		min-width: 220px;
+		min-height: 55px;
+		font-size: 16px;
+		font-weight: 600;
+		line-height: 30px;
+	}
+	.restaurant-theme #map {
+		height: 300px;
+	}
+	.app-works-area {
+		padding-top: 0;
+		padding-bottom: 120px;
+	}
+	
+
+
+	
+}
+
+@media only screen and (max-width:420px) {
+	.call-col h1 {
+	    font-size: 24px;
+	    line-height: 30px;
+	}
+	.call-col h2 {
+	    font-size: 16px;
+	    line-height: 28px;
+	}
+	.team-item .team-img:before {
+		display: none;
+	}
+	.item-number {
+		margin-top: 30px;
+	}
+	.team-area .owl-theme .owl-nav [class*=owl-] {
+		font-size: 40px;
+	}
+	/*.team-area .owl-controls {
+	    top: -210px;
+	}*/
+	.cv-two-theme .footer-two-area h2 {
+		font-size: 30px;
+		line-height: 36px;
+	}
+	.countdown .countdown-container {
+	  margin: 0 5px;
+	}
+	.skltbs-tab-item {
+		display: block !important;
+	}
+	.thankyou-box {
+		padding: 30px 10px;
+	}
+	.thankyou-box h1 {
+		font-size: 50px;
+	}
+	.wedding-one-theme .footer-logo-box h2 {
+		font-size: 24px;
+	}
+	.video-two-area:before {
+	    height: 250px;
+	}
+	.footer-area-three .our-footer-col ul li {
+		margin: 0 10px;
+	}
+	.plumber-theme .testimonial-two-area .testimonial-col-two {
+		padding: 50px 20px 30px;
+	}
+	.testimonial-item-two {
+		 padding: 20px 20px;
+	}
+	.app-hero-content h1 {
+		font-size: 24px;
+	}
+	.app-hero-content h1 span {
+		font-size: 30px;
+	}
+}
+
+@media only screen and (max-width:375px) {
+	.portfolio-area .gallery-filters ul li {
+		margin: 0 5px;
+	}
+	.main-timeline .timeline-content {
+		margin-left: 20px;
+	}
+	.cv-one-theme .blog-info-bar ul li {
+		display: block;
+	}
+	.wedding-one-theme .cv-two-vedio-area h1 {
+		padding: 20px 10px 10px;
+	}
+	.construction-about-col .nav {
+		display: block;
+		text-align: center;
+	}	
+	.construction-about-col .nav-pills .nav-link {
+		width: 100% !important;
+		display: block !important;
+	}
+	.yoga-theme .video-two-area:before {
+	    height: 200px;
+	}
+	.conference-hero-content .countdown .countdown-container {
+		padding: 5px 5px;
+		width: 60px;
+		margin: 0 2px;
+	}
+	.conference-hero-content .countdown .countdown-container span.countdown-heading {
+		font-size: 12px;
+	}
+	.conference-hero-content .countdown .countdown-container span.countdown-value {
+		font-size: 24px !important;
+	}
+	.footer-area-three .our-footer-col h4 {
+		font-size: 16px;
+	}
+	.footer-area-three .our-footer-col p {
+		font-size: 12px;
+	}
+	.spa-hero-content h1 {
+	    font-size: 29px;
+	    line-height: 1.2;
+	}
+	.support-number {
+	    position: absolute;
+	    top: 20px;
+	    right: 10px;
+	    z-index: 0;
+	}
+	
+}
+
+@media(max-width:767px) {
+	.bannerImageClass {
+		height: 34vh;
+	}
+	.overlay-black:before {
+		height: 86%;
+	}
+	.about-area {
+		padding: 5px 0 50px;
+	}
+}
+
